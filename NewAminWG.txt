@@ -2,6 +2,7 @@
   "outbounds": 
   [
     {
+    {
       "type": "wireguard",
       "tag": "Warp-IR",
       "local_address": [
@@ -94,6 +95,6 @@
       "mtu": 1280,
       "fake_packets": "5-10"
     }
-
+    }
   ]
 }
