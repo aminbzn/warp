@@ -62,7 +62,7 @@
       "reserved": "AAAA",
       "mtu": 1280,
       "fake_packets": "5-10"
-    }
+    },
 {
       "type": "wireguard",
       "tag": "Warp-IR",
