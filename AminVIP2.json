@@ -86,8 +86,8 @@
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "pre_shared_key": "",
       "private_key": "UOqFu6mzYVALZjQdxaR/m9QaFLicCY+Hg34aMcSdr2U=",
-      "server": "185.59.218.75",
-      "server_port": 880,
+      "server": "172.71.236.185",
+      "server_port": 2408,
       "type": "wireguard",
       "domain_strategy": "",
       "tag": "proxy"
